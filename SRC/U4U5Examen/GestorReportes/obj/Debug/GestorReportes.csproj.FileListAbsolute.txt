@@ -1,0 +1,8 @@
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\bin\Debug\GestorReportes.exe.config
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\bin\Debug\GestorReportes.exe
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\bin\Debug\GestorReportes.pdb
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\obj\Debug\GestorReportes.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\obj\Debug\GestorReportes.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\obj\Debug\GestorReportes.exe
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\obj\Debug\GestorReportes.pdb
+C:\Users\MSI\Documents\Patrones de Diseño\U4U5Examen\GestorReportes\obj\Debug\GestorReportes.exe.config
